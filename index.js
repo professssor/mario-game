@@ -28,8 +28,8 @@ class Player {
       x: 100,
       y: 100,
     };
-    this.height = 120;
-    this.width = 120;
+    this.height = 70;
+    this.width = 60;
     this.velocity = {
       x: 0,
       y: 1,
